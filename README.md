@@ -2,7 +2,7 @@
 
 This repository contains a simple Next.js 13 application that demonstrates CRUD (Create, Read, Update, Delete) operations. The application allows users to perform basic CRUD actions on a dataset, providing a practical example of how to implement these operations using Next.js 13.
 
-## Features
+## Features 
 
 - Create: Add new products to the dataset through a user-friendly interface
 - View: View the existing dataset and browse through the items.
